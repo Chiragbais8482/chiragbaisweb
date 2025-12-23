@@ -37,7 +37,7 @@ const Contact = () => {
 
           {/* Download Resume from Google Drive */}
           <a
-            href="https://drive.google.com/file/d/1pj4rqiPEuNVUVBwYklcfTsZmsjIInWg3/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Ew0GCmepmdEo2AsEC8OJRI32pMa_1AHi/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-green-200 bg-green-50 px-3 py-1.5 text-sm font-medium text-green-700 hover:bg-green-100 dark:border-green-900 dark:bg-green-950 dark:text-green-200 dark:hover:bg-green-900"
